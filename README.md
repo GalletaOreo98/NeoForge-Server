@@ -1,2 +1,2 @@
 # NeoForge-Server
-My Minecraft Server
+Mi servidor de Minecraft con Neoforge
