@@ -3581,12 +3581,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2024-12-17 06:27:39 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2024-12-17 06:06:27 +0000"
@@ -3626,6 +3620,12 @@
   "travelersbackpack:recipes/misc/magnet_upgrade": {
     "criteria": {
       "has_blank_upgrade": "2024-12-17 06:06:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-17 06:27:39 +0000"
     },
     "done": true
   },
