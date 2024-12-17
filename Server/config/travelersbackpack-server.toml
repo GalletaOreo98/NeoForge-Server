@@ -173,19 +173,19 @@
 		netherBackpacks = ["travelersbackpack:quartz", "travelersbackpack:nether", "travelersbackpack:blaze", "travelersbackpack:ghast", "travelersbackpack:magma_cube", "travelersbackpack:wither"]
 
 	[server.backpackAbilities]
-		enableBackpackAbilities = true
+		enableBackpackAbilities = false
 		#Newly crafted backpacks will have ability enabled by default
-		forceAbilityEnabled = true
+		forceAbilityEnabled = false
 		#List of backpacks that are allowed to have an ability. DO NOT ADD anything to this list, because the game will crash, remove entries if backpack should not have ability
 		allowedAbilities = ["travelersbackpack:netherite", "travelersbackpack:diamond", "travelersbackpack:gold", "travelersbackpack:emerald", "travelersbackpack:iron", "travelersbackpack:lapis", "travelersbackpack:redstone", "travelersbackpack:bookshelf", "travelersbackpack:sponge", "travelersbackpack:cake", "travelersbackpack:cactus", "travelersbackpack:melon", "travelersbackpack:pumpkin", "travelersbackpack:creeper", "travelersbackpack:dragon", "travelersbackpack:enderman", "travelersbackpack:blaze", "travelersbackpack:ghast", "travelersbackpack:magma_cube", "travelersbackpack:spider", "travelersbackpack:wither", "travelersbackpack:warden", "travelersbackpack:bat", "travelersbackpack:bee", "travelersbackpack:ocelot", "travelersbackpack:cow", "travelersbackpack:chicken", "travelersbackpack:squid"]
 
 	[server.slownessDebuff]
 		#Player gets slowness effect, if carries too many backpacks in inventory
-		tooManyBackpacksSlowness = false
+		tooManyBackpacksSlowness = true
 		#Maximum number of backpacks, which can be carried in inventory, without slowness effect
 		# Default: 3
 		# Range: 1 ~ 37
-		maxNumberOfBackpacks = 3
+		maxNumberOfBackpacks = 1
 		# Default: 1.0
 		# Range: 0.1 ~ 5.0
 		slownessPerExcessedBackpack = 1.0
