@@ -1,6 +1,6 @@
 {
-  "version": "14.21.2",
-  "buildNumber": 30,
+  "version": "14.23",
+  "buildNumber": 32,
   "loadlist": [
     {
       "name": "LittleSkin",
@@ -70,13 +70,6 @@
       "checkPNG": false,
       "model": "auto",
       "cape": "http://161.35.130.99/capes/{USERNAME}.png"
-    },
-    {
-      "name": "LabyMod",
-      "type": "Legacy",
-      "checkPNG": false,
-      "model": "auto",
-      "cape": "https://dl.labymod.net/capes/{STANDARD_UUID}"
     },
     {
       "name": "Cosmetica",

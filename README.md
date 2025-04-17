@@ -5,10 +5,13 @@ Mi servidor de Minecraft con mods, utilizando Neoforge y Ngrok o Playit.gg
   
 ## Mods  
 - Chat Heads | By dzwdz
-- Skin Layers 3D | By tr7zw
 - Traveler's Backpack | By Tiviacz1337
 - Towns and Towers | By Biban_Auriu
-- Cristel Lib | By Cristelknight _Required Dependency_
+- Cristel Lib | By Cristelknight _(Dependencia)_  
+  
+### Mods del lado del cliente nada más
+- ~~Skin Layers 3D | By tr7zw _(Opcional)_~~
+- CustomSkinLoader | By xfl03 _(Opcional)_
 
 ## Comandos útiles
 
