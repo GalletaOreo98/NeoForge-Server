@@ -9,6 +9,9 @@ Mi servidor de Minecraft con mods, utilizando Neoforge y Ngrok o Playit.gg maybe
 - Towns and Towers | By Biban_Auriu
     - [Cristel Lib](https://modrinth.com/mod/cristel-lib) | By Cristelknight
 - [Skin Restorer](https://modrinth.com/mod/skinrestorer) | By Lionarius
+- [Lithium](https://modrinth.com/mod/lithium) | By CaffeineMC
+- [FerriteCore](https://modrinth.com/mod/ferrite-core) | By malte0811
+- [ModernFix](https://modrinth.com/mod/modernfix) | By embeddedt
   
 ### Mods del lado del cliente nada más _(Opcional)_
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons) | By jeseibel
