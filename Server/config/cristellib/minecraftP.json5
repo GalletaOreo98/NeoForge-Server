@@ -5,30 +5,20 @@ This config file makes it possible to change the spacing, separation, salt (and 
 KEEP IN MIND THAT SPACING ALWAYS NEEDS TO BE HIGHER THAN SEPARATION.
 */
 {
-	"igloos": {
-		"spacing": 32,
-		"separation": 8,
-		"salt": 14357618
-	},
-	"desert_pyramids": {
-		"spacing": 32,
-		"separation": 8,
-		"salt": 14357617
-	},
-	"end_cities": {
-		"spacing": 20,
-		"separation": 11,
-		"salt": 10387313
-	},
 	"ocean_ruins": {
 		"spacing": 20,
 		"separation": 8,
 		"salt": 14357621
 	},
-	"shipwrecks": {
-		"spacing": 24,
-		"separation": 4,
-		"salt": 165745295
+	"ruined_portals": {
+		"spacing": 40,
+		"separation": 15,
+		"salt": 34222645
+	},
+	"villages": {
+		"spacing": 34,
+		"separation": 8,
+		"salt": 10387312
 	},
 	"woodland_mansions": {
 		"spacing": 80,
@@ -40,21 +30,16 @@ KEEP IN MIND THAT SPACING ALWAYS NEEDS TO BE HIGHER THAN SEPARATION.
 		"separation": 8,
 		"salt": 20083232
 	},
+	"igloos": {
+		"spacing": 32,
+		"separation": 8,
+		"salt": 14357618
+	},
 	"buried_treasures": {
 		"spacing": 1,
 		"separation": 0,
 		"frequency": 0.01,
 		"salt": 0
-	},
-	"villages": {
-		"spacing": 34,
-		"separation": 8,
-		"salt": 10387312
-	},
-	"nether_complexes": {
-		"spacing": 27,
-		"separation": 4,
-		"salt": 30084232
 	},
 	"ocean_monuments": {
 		"spacing": 32,
@@ -71,11 +56,25 @@ KEEP IN MIND THAT SPACING ALWAYS NEEDS TO BE HIGHER THAN SEPARATION.
 		"separation": 1,
 		"salt": 14357921
 	},
-	"mineshafts": {
-		"spacing": 1,
-		"separation": 0,
-		"frequency": 0.004,
-		"salt": 0
+	"desert_pyramids": {
+		"spacing": 32,
+		"separation": 8,
+		"salt": 14357617
+	},
+	"end_cities": {
+		"spacing": 20,
+		"separation": 11,
+		"salt": 10387313
+	},
+	"swamp_huts": {
+		"spacing": 32,
+		"separation": 8,
+		"salt": 14357620
+	},
+	"shipwrecks": {
+		"spacing": 24,
+		"separation": 4,
+		"salt": 165745295
 	},
 	"pillager_outposts": {
 		"spacing": 32,
@@ -83,14 +82,9 @@ KEEP IN MIND THAT SPACING ALWAYS NEEDS TO BE HIGHER THAN SEPARATION.
 		"frequency": 0.2,
 		"salt": 165745296
 	},
-	"swamp_huts": {
-		"spacing": 32,
-		"separation": 8,
-		"salt": 14357620
-	},
-	"ruined_portals": {
-		"spacing": 40,
-		"separation": 15,
-		"salt": 34222645
+	"nether_complexes": {
+		"spacing": 27,
+		"separation": 4,
+		"salt": 30084232
 	}
 }

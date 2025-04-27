@@ -3,14 +3,17 @@ Mi servidor de Minecraft con mods, utilizando Neoforge y Ngrok o Playit.gg maybe
 
 ![](/Demo%20assets/full-enderfox.png)  
   
-## Mods  
-- Chat Heads | By dzwdz
+## Mods 
 - Traveler's Backpack | By Tiviacz1337
 - Towns and Towers | By Biban_Auriu
 - Cristel Lib | By Cristelknight _(Dependencia)_  
   
 ### Mods del lado del cliente nada más
-- ~~Skin Layers 3D | By tr7zw _(Opcional)_~~
+- Distant Horizons _(Opcional)_
+- Sodium + Extra _(Opcional)_
+- Yeetus experiment _(Opcional)_
+- Chat Heads | By dzwdz _(Opcional)_
+- Skin Layers 3D | By tr7zw _(Opcional)_
 - CustomSkinLoader | By xfl03 _(Opcional)_
 
 ## Comandos útiles
