@@ -1,1 +1,1 @@
-Mods que han sido removidos por conflictos de compatibilidad u otras razones
+Mods que no son necesarios pero que se recomienda instalar
