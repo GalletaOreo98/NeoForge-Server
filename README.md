@@ -12,6 +12,7 @@ Mi servidor de Minecraft con mods, utilizando Neoforge y Ngrok o Playit.gg maybe
 - [Lithium](https://modrinth.com/mod/lithium) | By CaffeineMC
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) | By malte0811
 - [ModernFix](https://modrinth.com/mod/modernfix) | By embeddedt
+- [Krypton](https://modrinth.com/mod/krypton) | By astei
   
 ### Mods del lado del cliente nada más _(Opcional)_
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons) | By jeseibel
