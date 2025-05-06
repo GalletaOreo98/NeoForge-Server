@@ -6,7 +6,7 @@ Mi servidor de Minecraft con mods, utilizando Neoforge y Ngrok o Playit.gg maybe
 ## Mods 
 - [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack) | By Tiviacz1337
     - [Cardinal Components API](https://modrinth.com/mod/cardinal-components-api) | By Ladysnake
-- Towns and Towers | By Biban_Auriu
+- [Towns and Towers](https://modrinth.com/mod/towns-and-towers) | By Biban_Auriu
     - [Cristel Lib](https://modrinth.com/mod/cristel-lib) | By Cristelknight
 - [Skin Restorer](https://modrinth.com/mod/skinrestorer) | By Lionarius
 - [Lithium](https://modrinth.com/mod/lithium) | By CaffeineMC
