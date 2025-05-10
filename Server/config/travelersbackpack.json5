@@ -172,7 +172,7 @@
 		"enableVillagerTrade": true
 	},
 	"backpackAbilities": {
-		"enableBackpackAbilities": true,
+		"enableBackpackAbilities": false,
 		// Newly crafted backpacks will have ability enabled by default
 		"forceAbilityEnabled": true,
 		// List of backpacks that are allowed to have an ability. DO NOT ADD anything to this list, because the game will crash, remove entries if backpack should not have ability
@@ -235,7 +235,7 @@
 		// Player gets slowness effect, if carries too many backpacks in inventory
 		"tooManyBackpacksSlowness": false,
 		// Maximum number of backpacks, which can be carried in inventory, without slowness effect
-		"maxNumberOfBackpacks": 3,
+		"maxNumberOfBackpacks": 1,
 		"slownessPerExcessedBackpack": 1
 	},
 	"client": {
