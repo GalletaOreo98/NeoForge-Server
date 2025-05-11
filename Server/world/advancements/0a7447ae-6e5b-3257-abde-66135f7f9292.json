@@ -316,6 +316,7 @@
       "suspicious_stew": "2025-04-23 06:52:41 +0000",
       "rotten_flesh": "2025-05-06 22:40:39 +0000",
       "glow_berries": "2025-04-17 17:35:36 +0000",
+      "cooked_cod": "2025-05-11 06:53:47 +0000",
       "cooked_beef": "2025-05-10 18:44:14 +0000",
       "baked_potato": "2025-04-17 15:55:27 +0000",
       "melon_slice": "2025-04-17 07:36:06 +0000",
@@ -3259,6 +3260,7 @@
       "minecraft:cow": "2025-04-27 09:19:54 +0000",
       "minecraft:chicken": "2025-05-07 21:29:35 +0000",
       "minecraft:pig": "2025-05-06 22:29:57 +0000",
+      "minecraft:horse": "2025-05-11 06:28:38 +0000",
       "minecraft:sheep": "2025-05-10 18:34:58 +0000"
     },
     "done": false
@@ -3971,6 +3973,24 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cactus": {
+    "criteria": {
+      "has_cactus": "2025-05-10 20:30:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-05-10 20:30:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-10 20:47:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-10 20:47:34 +0000"
@@ -3983,18 +4003,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/suspicious_stew_from_red_tulip": {
-    "criteria": {
-      "has_red_tulip": "2025-05-10 21:26:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2025-05-10 21:24:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-10 20:47:34 +0000"
@@ -4004,18 +4012,6 @@
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-10 20:47:34 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/cactus": {
-    "criteria": {
-      "has_cactus": "2025-05-10 20:30:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_sandstone": {
-    "criteria": {
-      "has_sand": "2025-05-10 20:47:18 +0000"
     },
     "done": true
   },
@@ -4037,12 +4033,6 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/end": {
-    "criteria": {
-      "has_ender_eye": "2025-05-10 21:24:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2025-05-10 20:47:34 +0000"
@@ -4055,9 +4045,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/green_dye": {
+  "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
-      "has_cactus": "2025-05-10 20:30:40 +0000"
+      "has_terracotta": "2025-05-10 20:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-10 20:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-10 20:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-10 20:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-10 20:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-10 20:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-05-10 20:47:34 +0000"
     },
     "done": true
   },
@@ -4079,27 +4105,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
-    "criteria": {
-      "has_white_tulip": "2025-05-10 21:26:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-10 20:47:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-10 20:56:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-10 20:47:34 +0000"
     },
     "done": true
   },
@@ -4115,27 +4123,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magenta_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-10 20:47:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-05-10 20:56:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cyan_terracotta": {
-    "criteria": {
-      "has_terracotta": "2025-05-10 20:47:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-10 20:56:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-05-10 20:56:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-05-10 21:24:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/end": {
+    "criteria": {
+      "has_ender_eye": "2025-05-10 21:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-05-10 21:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_red_tulip": {
+    "criteria": {
+      "has_red_tulip": "2025-05-10 21:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2025-05-10 21:26:40 +0000"
     },
     "done": true
   },
@@ -4151,33 +4183,111 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/gray_terracotta": {
+  "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
-      "has_terracotta": "2025-05-10 20:47:34 +0000"
+      "has_stone_bricks": "2025-05-11 06:48:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ender_chest": {
+  "travelersbackpack:recipes/misc/fox": {
     "criteria": {
-      "has_ender_eye": "2025-05-10 21:24:52 +0000"
+      "has_sweet_berries": "2025-05-11 06:24:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_terracotta": {
+  "minecraft:recipes/misc/brown_dye": {
     "criteria": {
-      "has_terracotta": "2025-05-10 20:47:34 +0000"
+      "has_cocoa_beans": "2025-05-11 07:29:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_terracotta": {
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
-      "has_terracotta": "2025-05-10 20:47:34 +0000"
+      "has_stone_bricks": "2025-05-11 06:48:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jungle_slab": {
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
-      "has_planks": "2025-05-10 20:56:55 +0000"
+      "has_stone_bricks": "2025-05-11 06:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 06:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-05-11 07:06:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-05-11 06:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-05-11 07:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 06:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-05-11 07:06:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 06:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wolf_armor": {
+    "criteria": {
+      "has_armadillo_scute": "2025-05-11 06:25:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 06:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 06:48:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-05-11 08:21:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-05-11 07:06:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-05-11 08:21:47 +0000"
     },
     "done": true
   },
