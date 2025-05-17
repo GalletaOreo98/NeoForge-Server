@@ -370,7 +370,8 @@
       "cooked_beef": "2025-04-17 16:41:26 +0000",
       "baked_potato": "2025-04-17 18:23:21 +0000",
       "melon_slice": "2025-04-17 18:05:46 +0000",
-      "beetroot": "2025-04-17 16:58:25 +0000"
+      "beetroot": "2025-04-17 16:58:25 +0000",
+      "golden_carrot": "2025-05-17 00:42:21 +0000"
     },
     "done": false
   },
@@ -995,6 +996,7 @@
       "minecraft:zombie": "2025-04-17 17:33:10 +0000",
       "minecraft:creeper": "2025-04-23 02:40:33 +0000",
       "minecraft:drowned": "2025-05-13 21:44:13 +0000",
+      "minecraft:zombie_villager": "2025-05-16 22:51:11 +0000",
       "minecraft:slime": "2025-05-06 23:39:10 +0000"
     },
     "done": false
@@ -4322,15 +4324,40 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+  "minecraft:recipes/misc/map": {
     "criteria": {
-      "has_netherite_ingot": "2025-05-14 00:45:28 +0000"
+      "has_compass": "2025-05-13 18:04:29 +0000"
     },
     "done": true
   },
   "travelersbackpack:recipes/misc/fox": {
     "criteria": {
       "has_sweet_berries": "2025-05-13 18:10:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:siamese": "2025-05-13 18:14:45 +0000",
+      "minecraft:all_black": "2025-05-13 18:27:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-13 18:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-05-13 21:58:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-14 00:45:28 +0000"
     },
     "done": true
   },
@@ -4343,12 +4370,6 @@
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-14 00:45:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2025-05-13 18:04:29 +0000"
     },
     "done": true
   },
@@ -4370,13 +4391,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/complete_catalogue": {
-    "criteria": {
-      "minecraft:siamese": "2025-05-13 18:14:45 +0000",
-      "minecraft:all_black": "2025-05-13 18:27:17 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2025-05-14 00:45:28 +0000"
@@ -4386,12 +4400,6 @@
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-14 00:45:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-05-13 18:14:45 +0000"
     },
     "done": true
   },
@@ -4413,12 +4421,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2025-05-13 21:58:34 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
     "criteria": {
       "has_netherite_ingot": "2025-05-14 00:45:28 +0000"
@@ -4428,6 +4430,36 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-05-14 00:45:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-05-17 00:09:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf_smithing": {
+    "criteria": {
+      "has_bookshelf": "2025-05-16 22:47:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:coast_armor_trim_smithing_template_smithing_trim": "2025-05-17 00:14:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-05-16 23:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-16 22:22:35 +0000"
     },
     "done": true
   },
