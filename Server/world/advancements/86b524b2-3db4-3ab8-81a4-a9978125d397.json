@@ -988,6 +988,7 @@
       "minecraft:skeleton": "2025-04-17 19:15:00 +0000",
       "minecraft:zombified_piglin": "2025-04-17 18:30:52 +0000",
       "minecraft:witch": "2025-05-13 18:21:19 +0000",
+      "minecraft:ghast": "2025-05-20 17:58:54 +0000",
       "minecraft:hoglin": "2025-04-17 18:28:08 +0000",
       "minecraft:piglin": "2025-05-07 20:09:52 +0000",
       "minecraft:enderman": "2025-04-17 19:19:44 +0000",
@@ -4433,9 +4434,9 @@
     },
     "done": true
   },
-  "minecraft:nether/brew_potion": {
+  "minecraft:recipes/misc/wheat": {
     "criteria": {
-      "potion": "2025-05-17 00:09:19 +0000"
+      "has_hay_block": "2025-05-16 22:22:35 +0000"
     },
     "done": true
   },
@@ -4445,21 +4446,63 @@
     },
     "done": true
   },
-  "minecraft:adventure/trim_with_any_armor_pattern": {
-    "criteria": {
-      "armor_trimmed_minecraft:coast_armor_trim_smithing_template_smithing_trim": "2025-05-17 00:14:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_sunflower": "2025-05-16 23:35:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "minecraft:nether/brew_potion": {
     "criteria": {
-      "has_hay_block": "2025-05-16 22:22:35 +0000"
+      "potion": "2025-05-17 00:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:coast_armor_trim_smithing_template_smithing_trim": "2025-05-17 00:14:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-20 17:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-20 17:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-20 17:37:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pumpkin_smithing": {
+    "criteria": {
+      "has_pumpkin": "2025-05-20 17:22:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone_smithing": {
+    "criteria": {
+      "has_sandstone": "2025-05-20 17:22:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-05-20 17:58:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-20 18:03:01 +0000"
     },
     "done": true
   },
