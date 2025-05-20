@@ -2239,6 +2239,7 @@
       "minecraft:enderman": "2025-04-17 20:46:08 +0000",
       "minecraft:magma_cube": "2025-04-23 06:11:16 +0000",
       "minecraft:spider": "2025-04-17 18:43:45 +0000",
+      "minecraft:piglin_brute": "2025-05-20 19:20:23 +0000",
       "minecraft:zombie": "2025-04-17 18:42:23 +0000",
       "minecraft:creeper": "2025-04-17 18:44:32 +0000",
       "minecraft:drowned": "2025-04-27 10:07:55 +0000",
@@ -4892,6 +4893,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-20 17:09:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-05-20 17:09:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crafter": {
     "criteria": {
       "has_dropper": "2025-05-20 17:19:36 +0000"
@@ -4910,15 +4923,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
-      "has_smithing_trim_template": "2025-05-20 17:09:51 +0000"
+      "has_polished_blackstone_bricks": "2025-05-20 19:12:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+  "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
     "criteria": {
-      "has_coast_armor_trim_smithing_template": "2025-05-20 17:09:51 +0000"
+      "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2025-05-20 20:07:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-20 19:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-05-20 19:53:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-20 19:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-20 19:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-20 19:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-05-20 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-20 19:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-20 19:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-20 19:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-20 19:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-20 19:11:49 +0000"
     },
     "done": true
   },
